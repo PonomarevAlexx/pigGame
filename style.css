@@ -44,6 +44,9 @@ main {
 }
 
 /* Elements */
+.hidden{
+  display: none;
+}
 .name {
   position: relative;
   font-size: 4rem;
